@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimalAnatomyAlpha</string>
+    <string name ="barrinha">barrinha divisoria</string>
+    <string name ="logo">a logo do animals anatomy</string>
+</resources>
